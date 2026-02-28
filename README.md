@@ -231,8 +231,10 @@ TensorRT Model:
 
 ## 👤 Author
 
-Soykot Podder
-[Email:diptopodder95@gmail.com]
+**Soykot Podder**
+
+- 📧 Email: diptopodder95@gmail.com
+- 🔗 GitHub: [@podderSoykot](https://github.com/podderSoykot)
 
 ---
 
